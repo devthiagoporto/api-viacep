@@ -1,4 +1,4 @@
-# Projeto Simples Consulta CEP
+# Projeto Simples API ViaCEP
 
 Este é um projeto simples que permite ao usuário consultar um CEP e exibir as informações relacionadas, como logradouro, complemento, bairro, localidade e UF. O projeto utiliza a API ViaCEP para obter as informações do endereço.
 
@@ -8,7 +8,7 @@ Para instalar e utilizar este projeto, siga os passos abaixo:
 
 1. Clone o repositório em sua máquina local:
 
-git clone https://github.com/seu_usuario/projeto-simples-consulta-cep.git
+ >git clone https://github.com/seu_usuario/projeto-simples-consulta-cep.git
 
 2. Navegue até a pasta do projeto e abra o arquivo `index.html` em seu navegador de preferência.
 
